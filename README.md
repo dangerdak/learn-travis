@@ -14,8 +14,9 @@ automatically when you push them to your remote repository. These can be tests
 if the usual sense, and you can also set it up to fail if the codebase doesn't
 meet your litning rules.
 
-* Doesn't seem to work with ES6
-* Doesn't seem to work with shot
+* Doesn't seem to work with ES6 - if you put a really old version of node in
+  your travis.yml
+* Doesn't seem to work with shot - old node issue again I think :blush:
 
 ## Resources
 [Continuous Integration - Martin

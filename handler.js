@@ -1,4 +1,4 @@
-const handler = function(request, response) {
+const handler = (request, response) => {
 }
 
 module.exports = handler;
