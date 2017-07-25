@@ -1,7 +1,7 @@
 const test = require('tape');
 const handler = require('./handler');
 
-test('Initialise', function(t) {
+test('Initialise', (t) => {
   t.pass('Tape running OK');
   t.end()
 });
