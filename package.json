@@ -4,7 +4,7 @@
   "description": "Learning CI/Travis",
   "main": "server.js",
   "scripts": {
-    "test": "tape test.js | tap-spec",
+    "test": "tape test.js",
     "start": "node server.js"
   },
   "repository": {
