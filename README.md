@@ -33,6 +33,10 @@ want Travis to depend on e.g.
 ```
 It can also be setup to work with your linter.
 
+On your Github account if you look at the commit history for your project
+you'll now see a tick or cross indicating whether the build passed for that
+commit.
+
 Including a build passing/failing badge in your readme is as easy as going to
 your repo on travis, click the badge and copying the URL for the image. You can
 then use this image URL in your projects readme.
