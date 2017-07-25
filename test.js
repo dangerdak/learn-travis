@@ -1,5 +1,4 @@
 const test = require('tape');
-const shot = require('shot');
 const handler = require('./handler');
 
 test('Initialise', function(t) {
